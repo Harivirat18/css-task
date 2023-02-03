@@ -1,0 +1,26 @@
+h2{
+	text-align:center;
+	color:blue;
+	text-decoration:underline;
+	text-decoration-color:solid gray;
+	}
+	
+	ul li{
+		list-style-position:outside;
+	}
+section{
+	display:flex;
+	margin-left:110px;
+	margin-top:px;
+}
+
+.hari{
+	margin-left: 30px;
+    margin-top:px;
+	margin-right:70px;
+}
+span{
+	color:blue;
+	border:2px solid blue;
+	padding:6px;
+}
